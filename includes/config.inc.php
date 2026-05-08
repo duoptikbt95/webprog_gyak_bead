@@ -71,4 +71,7 @@ $hiba_oldal = array(
     'szoveg' => 'A keresett oldal nem található!'
 );
 
-?>
+?>               
+
+
+
