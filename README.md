@@ -57,9 +57,12 @@ Online elérés
 
 A projekt internetes tárhelyre is feltöltésre került.
 
-Készítette
+Készítették
 
 Flámis Géza Zsolt
 Neptun-kód: NGEK9N
+
+Hársfalvi-Kuczmogh Miklós
+Neptun-kód: D19FB3
 
 Web-programozás 1 – beadandó feladat
