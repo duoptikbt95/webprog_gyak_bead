@@ -13,8 +13,6 @@ amelyek környezetbarát módon termelnek villamos energiát.
     A böngésződ nem támogatja a videót.
 </video>
 
-<!--<p><small>(Max 5 másodperces videó ajánlott)</small></p>-->
-
 <h3>📺 YouTube videó</h3>
 
 <iframe 
